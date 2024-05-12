@@ -9,7 +9,3 @@
 - 📫 How to reach me:
   1. Mail on arunchau986@gmail.com
   2. DM on LinkedIn
-- Links:
-  1. LinkedIn: https://linkedin.com/in/arun-choudhary-1b08a9233
-  2. Leetcode: https://leetcode.com/arunchau986/
-  3. Twitter: https://twitter.com/ArunCho06421322
